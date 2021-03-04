@@ -1,3 +1,2 @@
 # Hello-World
-Just another repository
-Contain basic programe of programming languages
+Contain basic programe of each programming language
